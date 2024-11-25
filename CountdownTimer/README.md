@@ -6,7 +6,7 @@ The timer allows users to input a duration in seconds and displays the remaining
 
 **Features:**
 
--Customizable Duration: Set the desired countdown duration in seconds.
--Real-time Display: Visualizes the remaining time in minutes and seconds.
--Dynamic Updates: The timer refreshes every second to provide accurate time.
--Clear and Concise: A simple and efficient solution for various time-based applications.
+- **Customizable Duration:** Set the desired countdown duration in seconds.
+- **Real-time Display:** Visualizes the remaining time in minutes and seconds.
+- **Dynamic Updates:** The timer refreshes every second to provide accurate time.
+- **Clear and Concise:** A simple and efficient solution for various time-based applications.
