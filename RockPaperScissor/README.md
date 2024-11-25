@@ -5,8 +5,8 @@ This is a simple text-based implementation of the classic Rock, Paper, Scissors 
 
 **Key Features**
 
-**Text-based interface:** A simple and easy-to-use command-line experience.
-**Random Computer Choices:** The computer's selection is generated randomly.
-**Classic Rules:** The game follows the standard Rock-Paper-Scissors rules.
-**Clear Outcomes:** The winner of each round is displayed.
-**TypeScript Implementation:** Ensures code quality and maintainability.
+- **Text-based interface:** A simple and easy-to-use command-line experience.
+- **Random Computer Choices:** The computer's selection is generated randomly.
+- **Classic Rules:** The game follows the standard Rock-Paper-Scissors rules.
+- **Clear Outcomes:** The winner of each round is displayed.
+- **TypeScript Implementation:** Ensures code quality and maintainability.
